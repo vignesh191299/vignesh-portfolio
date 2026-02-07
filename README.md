@@ -191,27 +191,4 @@ To enable full PWA features, add a service worker in `public/sw.js`.
 - Bing Webmaster Tools
 - Schema.org validator
 
-## 📝 License
-
-MIT License - feel free to use this template for your own portfolio!
-
-## 👤 Author
-
-**Vignesh M**
-- Email: mvignesh191299@gmail.com
-- LinkedIn: [vignesh-vicky](https://linkedin.com/in/vignesh-vicky)
-- GitHub: [vignesh191299](https://github.com/vignesh191299)
-
-## 🤝 Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## 📞 Support
-
-For questions or support, reach out via:
-- Email: mvignesh191299@gmail.com
-- Phone: +91 8300773347
-
----
-
 Built with ❤️ using Next.js
