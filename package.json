@@ -1,0 +1,45 @@
+{
+  "name": "vignesh-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Vignesh M - Software Developer",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "lint": "next lint",
+    "analyze": "ANALYZE=true next build"
+  },
+  "dependencies": {
+    "lucide-react": "^0.300.0",
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@next/bundle-analyzer": "^14.0.4",
+    "@tailwindcss/postcss": "^4.1.18",
+    "autoprefixer": "^10.4.24",
+    "critters": "^0.0.25",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^14.0.4",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
+  },
+  "keywords": [
+    "portfolio",
+    "software developer",
+    "full stack developer",
+    "react",
+    "next.js",
+    "mern stack",
+    "web development"
+  ],
+  "author": {
+    "name": "Vignesh M",
+    "email": "mvignesh191299@gmail.com",
+    "url": "https://vignesh-portfolio.com"
+  },
+  "license": "MIT"
+}
